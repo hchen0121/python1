@@ -10,3 +10,5 @@ print(v)
 print(v.dot(w))
 print(np.sum(w))
 
+arr = np.arange(20)
+print(arr)
