@@ -12,3 +12,5 @@ print(np.sum(w))
 
 arr = np.arange(20)
 print(arr)
+
+print('hello world')
